@@ -7,9 +7,13 @@ You also can call me **Lee**, if it easier for you (it is surname).
 I have been working as software engineer since 2015, and currently
 
 - 🌇 Living in Kuala Lumpur, Malaysia🇲🇾. (🕗 GMT+8)
+
 - 💼 Working in <a href="https://github.com/SEEK-Jobs">SEEK ASIA <img src="https://avatars.githubusercontent.com/u/1829110?s=200&v=4" alt="SEEK ASIA" style="width:15px;"></a>
 - 🌱 Learning or mastering in AWS, TypeScript, DynamoDB and ReactJs
-- ⚡️ This is my total coding time since 2015 <img title="Coding time" src="https://wakatime.com/badge/user/a3bbc24b-65ab-4ef3-8151-e90067aa4088.svg" data-original-title="Total time coded since Apr 13 2015">
+
+- 💬 Speak in Mandarin, English, Malay, and another 2 chinese dialects (Cantonese and Hakka)
+
+- ⚡️ This is my total coding time since 2015 <img title="Coding time" src="https://wakatime.com/badge/user/a3bbc24b-65ab-4ef3-8151-e90067aa4088.svg" data-original-title="Total time coded since Apr 13 2015">. Visit my [WakaTime profile](https://wakatime.com/@wzlee) to see my coding activities summary.
 
 ### This is my WakaTime Stats
 
@@ -17,7 +21,7 @@ I have been working as software engineer since 2015, and currently
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wzlee" />
 </a>
 
-Visit my [WakaTime profile](https://wakatime.com/@wzlee) to see my coding activities summary
+
 
 <h2>📚 Techstack I work with (Familiarity: high to low)</h2>
 
