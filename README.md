@@ -15,7 +15,7 @@ I have been working as software engineer since 2015, and currently
 
 - ⚡️ This is my total coding time since 2015 <img title="Coding time" src="https://wakatime.com/badge/user/a3bbc24b-65ab-4ef3-8151-e90067aa4088.svg" data-original-title="Total time coded since Apr 13 2015">. Visit my [WakaTime profile](https://wakatime.com/@wzlee) to see my coding activities summary.
 
-### This is my WakaTime Stats
+### WakaTime Stats
 
 <a href="https://wakatime.com/@wzlee">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=wzlee" />
